@@ -1,0 +1,2 @@
+let firstName = "Lianshuang";
+console.log(firstName);
